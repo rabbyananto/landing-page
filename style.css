@@ -25,9 +25,6 @@ html,body{
     margin: 0 auto;
     padding-top: 180px;
     padding-left: 16px;
-
-    
-
 }
 .lg_text{
     font-size: 72px;
@@ -46,7 +43,7 @@ html,body{
     background-color: #fff;
     border: none;
     border-radius: 45px;
-    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
     transition: all 0.3s ease 0s;
     cursor: pointer;
     outline: none;
@@ -54,7 +51,7 @@ html,body{
   
 .hero_section button:hover {
     background-color: #2EE59D;
-    box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+    box-shadow: 0 15px 20px rgba(46, 229, 157, 0.4);
     color: #fff;
     transform: translateY(-7px);
   }
